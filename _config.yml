@@ -10,21 +10,21 @@
 locale                   : "en-US"
 title                    : "Jilin Hu's Personal Homepage"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Jilin Hu"
 description              : &description "personal description"
 url                      : https://jilinhu.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+baseurl                  : #"" # the subpath of your site, e.g. "/blog"
+repository               : #"academicpages/academicpages.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "./images/hu.png"
+  avatar           : "hu.png"
   name             : "Jilin Hu (胡霁林)"
   pronouns         : # example: "she/her"  
-  bio              : "A 3rd PhD candidate in Zhejiang University, Always be curious."
+  bio              : "A 3rd PhD candidate at Zhejiang University, Always be curious."
   location         : "China"
   employer         : "Zhejiang University"
   uri              : "https://jilinhu.github.io/"
