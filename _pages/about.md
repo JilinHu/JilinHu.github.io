@@ -17,4 +17,6 @@ You can find my CV here: [Jilin Hu's Curriculum Vitae](../assets/CV.pdf).
 
 You can also find my research plan here: [AI for FM](../assets/Plan.pdf).
 
-[Email](hujilin@zju.edu.cn) / [Github](https://github.com/JilinHu) / [Wechat](../images/wechat.jpg) / [IEEE](https://ieeexplore.ieee.org/author/37089998729)
+My Email: hujilin@zju.edu.cn 
+
+[Github](https://github.com/JilinHu) / [Wechat](../images/wechat.jpg) / [IEEE](https://ieeexplore.ieee.org/author/37089998729)
