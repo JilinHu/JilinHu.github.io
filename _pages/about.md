@@ -14,6 +14,7 @@ My research interests include formal verification, theorem proving, large langua
 I went to Michigan State University as an exchange student during my undergraduate and I wish to travel to the United States again as a visiting PhD student.
 
 You can find my CV here: [Jilin Hu's Curriculum Vitae](../assets/CV.pdf). 
+
 You can also find my research plan here: [Integrating LLM into automated theorem proving](../assets/Plan.pdf)
 
 [Email](hujilin@zju.edu.cn) / [Github](https://github.com/JilinHu) / [Wechat](../images/wechat.jpg) / [IEEE](https://ieeexplore.ieee.org/author/37089998729)
