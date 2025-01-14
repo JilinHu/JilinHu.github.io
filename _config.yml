@@ -21,7 +21,7 @@ repository               : #"academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "IMG_2419.JPG"
+  avatar           : "hu1.png"
   name             : "Jilin Hu (胡霁林)"
   pronouns         : # example: "she/her"  
   bio              : "A visiting scholar at UIUC and 4th-year PhD candidate at Zhejiang University."
