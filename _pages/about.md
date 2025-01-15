@@ -15,7 +15,9 @@ I am now doing research at [University of Illinois at Urbana Champaign (UIUC)](h
 My research interests include formal verification, automatic theorem proving, large language models, proof automation, operating systems, and trusted execution environments, specification synthesis. I am now interested in AI for formal methods. Specifically, I am focusing on automatically specifying and verifying the system security and safety (e.g., Trusted execution environment) in Isabelle/HOL with the assistance of LLMs. Before that, I verified the TEE and its protection profile with Isabelle/HOL.   
 
 You can find my CV here: [Jilin Hu's Curriculum Vitae](../assets/CV.pdf). 
+
 You can also find my research plan here: [AI for FM](../assets/Plan.pdf).
+
 My Email: hujilin@zju.edu.cn
 
 [Github](https://github.com/JilinHu) / [LinkedIn](https://www.linkedin.com/in/jilin-hu-2b8649284/)
