@@ -20,4 +20,4 @@ You can also find my research plan here: [AI for FM](../assets/Plan.pdf).
 
 My Email: hujilin@zju.edu.cn
 
-[Github](https://github.com/JilinHu) / [LinkedIn](https://www.linkedin.com/in/jilin-hu-2b8649284/) / [Wechat](../images/wechat.jpg)
+[Github](https://github.com/JilinHu) / [LinkedIn](https://www.linkedin.com/in/jilin-hu-2b8649284/)
