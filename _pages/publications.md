@@ -12,12 +12,14 @@ author_profile: true
 <ol class="pub-list">
 {% for pub in site.publications reversed %}
 <li style="margin: 0 0 0.75em 0;">
-<strong>{{ pub.title }}</strong><br/>
+{%- if pub.doi %}<a href="https://doi.org/{{ pub.doi }}"><strong>{{ pub.title }}</strong></a>
+{%- elsif pub.exturl %}<a href="{{ pub.exturl }}"><strong>{{ pub.title }}</strong></a>
+{%- else %}<strong>{{ pub.title }}</strong>
+{%- endif %}
+<br/>
 {{ pub.authors | replace: 'Jilin Hu', '<strong>Jilin Hu</strong>' }}.
 <em>{{ pub.venue }}</em>{% if pub.pubinfo %}, {{ pub.pubinfo }}{% endif %}, {{ pub.date | date: "%Y" }}.
-<strong>{{ pub.ccf }}</strong>{% if pub.authorship %} ({{ pub.authorship }}){% endif %}
-{%- if pub.doi %} &middot; <a href="https://doi.org/{{ pub.doi }}">DOI</a>{% endif %}
-{%- if pub.exturl %} &middot; <a href="{{ pub.exturl }}">Paper</a>{% endif %}
+<strong>{{ pub.ccf }}</strong>
 </li>
 {% endfor %}
 </ol>
