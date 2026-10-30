@@ -26,8 +26,8 @@ author:
   pronouns         : # example: "she/her"  
   bio              : #"A visiting scholar at UIUC and 4th-year PhD candidate at Zhejiang University."
   location         : "Shanghai, China"
-  employer         : "Shanghai Artificial Intelligence Laboratory"
-  uri              : "https://jilinhu.github.io/"
+  employer         : "Shanghai AI Lab"
+  uri              : #"https://jilinhu.github.io/"
   email            : "hujilin@pjlab.org.cn" 
 
   # Academic websites
