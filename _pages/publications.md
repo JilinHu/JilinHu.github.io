@@ -17,9 +17,9 @@ author_profile: true
 {%- else %}<strong>{{ pub.title }}</strong>
 {%- endif %}
 <br/>
-{{ pub.authors | replace: 'Jilin Hu', '<strong>Jilin Hu</strong>' }}.
-<em>{{ pub.venue }}</em>{% if pub.pubinfo %}, {{ pub.pubinfo }}{% endif %}, {{ pub.date | date: "%Y" }}.
-<strong>{{ pub.ccf }}</strong>
+{{ pub.authors | replace: 'Jilin Hu', '<strong>Jilin Hu</strong>' }}
+<br/>
+<em>{{ pub.venue }}</em>{% if pub.pubinfo %}, {{ pub.pubinfo }}{% endif %}, {{ pub.date | date: "%Y" }}. <strong>{{ pub.ccf }}</strong>
 </li>
 {% endfor %}
 </ol>
