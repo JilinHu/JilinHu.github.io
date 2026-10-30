@@ -11,7 +11,7 @@ author_profile: true
 
 <ol class="pub-list">
 {% for pub in site.publications reversed %}
-<li style="margin: 0 0 0.75em 0;">
+<li style="margin: 0 0 0.9em 0; line-height: 1.9;">
 {%- if pub.doi %}<a href="https://doi.org/{{ pub.doi }}"><strong>{{ pub.title }}</strong></a>
 {%- elsif pub.exturl %}<a href="{{ pub.exturl }}"><strong>{{ pub.title }}</strong></a>
 {%- else %}<strong>{{ pub.title }}</strong>
