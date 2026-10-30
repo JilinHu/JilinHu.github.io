@@ -24,11 +24,11 @@ author:
   avatar           : "IMG_2419.JPG"
   name             : "Jilin Hu (胡霁林)"
   pronouns         : # example: "she/her"  
-  bio              : "A visiting scholar at UIUC and 4th-year PhD candidate at Zhejiang University."
-  location         : "United States"
-  employer         : "UIUC, Zhejiang University"
+  bio              : #"A visiting scholar at UIUC and 4th-year PhD candidate at Zhejiang University."
+  location         : "Shanghai, China"
+  employer         : "Shanghai Artificial Intelligence Laboratory"
   uri              : "https://jilinhu.github.io/"
-  email            : "hujilin@zju.edu.cn" 
+  email            : "hujilin@pjlab.org.cn" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
